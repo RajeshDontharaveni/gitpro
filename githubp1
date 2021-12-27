@@ -1,0 +1,3 @@
+#install apache
+yum update
+yum install apache
